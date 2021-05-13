@@ -830,12 +830,10 @@ section{
 }
 .dot30 {
 	margin:-25px 0px 0px 160px;
-	width:21px;
-	height:21px;
+	width:25px;
+	height:25px;
 	border-radius:50%;
-	border-color: #ffffff;
-	border-style: solid;
-	background-color:#00001a;
+	background-color:#ffffff;
 	display: flex;
 	justify-content: center;
 	align-items:center;
@@ -857,20 +855,79 @@ section{
 	font-weight: bold;
 }
 
+.skills-text p:nth-child(39){
+	margin:50px 0px 0px -15px;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot32 {
+	margin:-12px 0px 0px 70px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.dot33 {
+	margin:-25px 0px 0px 100px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot34 {
+	margin:-25px 0px 0px 130px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot35 {
+	margin:-25px 0px 0px 160px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot36 {
+	margin:-25px 0px 0px 190px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
 
 
 
