@@ -933,3 +933,88 @@ section{
 
 
 
+
+
+
+
+
+
+
+
+
+
+.skills-text p:nth-child(45){
+	margin:50px 0px 0px -15px;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot37 {
+	margin:-12px 0px 0px 70px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+.dot38 {
+	margin:-25px 0px 0px 100px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot39 {
+	margin:-25px 0px 0px 130px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot40 {
+	margin:-25px 0px 0px 160px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot41 {
+	margin:-25px 0px 0px 190px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+
