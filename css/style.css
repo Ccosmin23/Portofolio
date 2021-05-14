@@ -930,7 +930,7 @@ section{
 }
 
 .skills-text p:nth-child(45){
-	margin:50px 0px 0px -15px;
+	margin:50px 0px 0px -25px;
 	font-family: calibri;
 	font-weight:bold;
 	color:#ffffff;
@@ -1020,16 +1020,29 @@ section{
 
 
 
-.skills-text p:nth-child(51){
-	margin:-465px 0px 0px 550px;
+
+
+
+
+
+
+
+
+
+
+
+.skills-text2 p:nth-child(1){
+	position: absolute;
+	top:2015;
+	left:635;
 	font-family: calibri;
 	font-weight:bold;
 	color:#ffffff;
 	font-size:18px;
 	line-height:0px;
 }
-.dot42 {
-	margin:-12px 0px 0px 630px;
+.dot47 {
+	margin:-528px 0px 0px 630px;
 	width:25px;
 	height:25px;
 	border-radius:50%;
@@ -1040,8 +1053,7 @@ section{
 	font-family: calibri;
 	font-weight: bold;
 }
-
-.dot43 {
+.dot48 {
 	margin:-25px 0px 0px 660px;
 	width:25px;
 	height:25px;
@@ -1053,7 +1065,7 @@ section{
 	font-family: calibri;
 	font-weight: bold;
 }
-.dot44 {
+.dot49{
 	margin:-25px 0px 0px 690px;
 	width:25px;
 	height:25px;
@@ -1065,21 +1077,19 @@ section{
 	font-family: calibri;
 	font-weight: bold;
 }
-.dot45 {
+.dot50 {
 	margin:-25px 0px 0px 720px;
-	width:21px;
-	height:21px;
+	width:25px;
+	height:25px;
 	border-radius:50%;
-	border-color: #ffffff;
-	border-style: solid;
-	background-color:#00001a;
+	background-color:#ffffff;
 	display: flex;
 	justify-content: center;
 	align-items:center;
 	font-family: calibri;
 	font-weight: bold;
 }
-.dot46 {
+.dot51 {
 	margin:-25px 0px 0px 750px;
 	width:21px;
 	height:21px;
@@ -1093,3 +1103,380 @@ section{
 	font-family: calibri;
 	font-weight: bold;
 }
+
+.skills-text2 p:nth-child(7){
+	position: absolute;
+	top:2080;
+	left:635;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot52 {
+	margin:38px 0px 0px 630px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot53 {
+	margin:-25px 0px 0px 660px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot54{
+	margin:-25px 0px 0px 690px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot55 {
+	margin:-25px 0px 0px 720px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot56 {
+	margin:-25px 0px 0px 750px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+.skills-text2 p:nth-child(13){
+	position: absolute;
+	top:2145;
+	left:635;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot57 {
+	margin:38px 0px 0px 630px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot58 {
+	margin:-25px 0px 0px 660px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot59{
+	margin:-25px 0px 0px 690px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot60 {
+	margin:-25px 0px 0px 720px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot61 {
+	margin:-25px 0px 0px 750px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+.skills-text2 p:nth-child(19){
+	position: absolute;
+	top:2210;
+	left:635;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot62 {
+	margin:38px 0px 0px 630px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot63 {
+	margin:-25px 0px 0px 660px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot64{
+	margin:-25px 0px 0px 690px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot65 {
+	margin:-25px 0px 0px 720px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot66 {
+	margin:-25px 0px 0px 750px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+.skills-text2 p:nth-child(25){
+	position: absolute;
+	top:2270;
+	left:635;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot67 {
+	margin:38px 0px 0px 630px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot68 {
+	margin:-25px 0px 0px 660px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot69{
+	margin:-25px 0px 0px 690px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot70 {
+	margin:-25px 0px 0px 720px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot71 {
+	margin:-25px 0px 0px 750px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+.skills-text2 p:nth-child(31){
+	position: absolute;
+	top:2335;
+	left:630;
+	font-family: calibri;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:18px;
+	line-height:0px;
+}
+.dot72 {
+	margin:38px 0px 0px 630px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot73 {
+	margin:-25px 0px 0px 660px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot74{
+	margin:-25px 0px 0px 690px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot75 {
+	margin:-25px 0px 0px 720px;
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background-color:#ffffff;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+.dot76 {
+	margin:-25px 0px 0px 750px;
+	width:21px;
+	height:21px;
+	border-radius:50%;
+	border-color: #ffffff;
+	border-style: solid;
+	background-color:#00001a;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+
