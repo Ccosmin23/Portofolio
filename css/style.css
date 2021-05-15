@@ -105,7 +105,16 @@ nav ul li a{
 
 
 
-
+.text-container{
+	position:absolute;
+	left:31%;
+	top:16%;
+	transform:translate(-13%,-42%);
+}
+.text-container p{
+	line-height: 0px;
+	margin:45px 0px 25px;
+}
 .text-container p:nth-child(1){
 	font-family: calibri;
 	font-weight:bold;
@@ -133,16 +142,7 @@ nav ul li a{
 	font-size:17px;
 	line-height:20px;
 }
-.text-container p{
-	line-height: 0px;
-	margin:45px 0px 25px;
-}
-.text-container{
-	position:absolute;
-	left:31%;
-	top:16%;
-	transform:translate(-13%,-42%);
-}
+
 
 
 
