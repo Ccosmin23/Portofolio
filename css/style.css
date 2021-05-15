@@ -314,10 +314,12 @@ section{
 	line-height:18px;
 }
 
-.education-text button:nth-child(11){
+
+
+.vertical-center0 button:nth-child(1){
 	position:absolute;
-	left:500;
-	top:85%;
+	left:650;
+	top:30%;
 	width:120px;
 	height: 40px;
 	color:#ffffff;
@@ -328,7 +330,7 @@ section{
 	border-radius:10px;
 }
 
-.education-text button:nth-child(12){
+.vertical-center button:nth-child(1){
 	position:absolute;
 	left:870;
 	top:85%;
@@ -342,9 +344,9 @@ section{
 	border-radius:10px;
 }
 
-.education-text a:nth-child(13){
+.vertical-center2 button:nth-child(1){
 	position:absolute;
-	left:1070;
+	left:500;
 	top:85%;
 	width:120px;
 	height: 40px;
