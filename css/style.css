@@ -168,6 +168,27 @@ button:active{
 
 
 
+.download-button button::nth-child(1){
+	position:absolute;
+	left:135;
+	top:175%;
+	border:2px solid #e6e6ff;
+	background-color:#00001a;
+	color:#ffffff;
+	width:130px;
+	height:42px;
+	border-radius:10px;
+	font-family:calibri;
+	font-weight:bold;
+	font-size:14px;
+	outline:none;
+	margin:0px 10px;
+}
+
+
+
+
+
 
 section{
 	width:100%;
