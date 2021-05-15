@@ -168,7 +168,7 @@ button:active{
 
 
 
-.download-button button::nth-child(1){
+.download-button button:nth-child(1){
 	position:absolute;
 	left:135;
 	top:175%;
