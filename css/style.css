@@ -143,28 +143,7 @@ nav ul li a{
 	top:16%;
 	transform:translate(-13%,-42%);
 }
-.text-container button{
-	width:130px;
-	height:42px;
-	border-radius:10px;
-	font-family:calibri;
-	font-weight:bold;
-	font-size:14px;
-	outline:none;
-	margin:0px 10px;
-}
 
-.down-cv{
-	position:absolute;
-	left:135;
-	top:175%;
-	border:2px solid #e6e6ff;
-	background-color:#00001a;
-	color:#ffffff;
-}
-button:active{
-	transform:scale(1.1);
-}
 
 
 
