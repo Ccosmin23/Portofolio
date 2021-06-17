@@ -49,7 +49,7 @@
 			<p>&emsp; Current Computer Science student most specialized in C/C++, Java and MySQL.<br>
 			&emsp; Passionate about teamwork and high level design, diligence for technology news.</p>
 			<div class="download-button">
-				<a href="Personal_CV.pdf" download="Personal_CV"><button type="button">Download CV</button></a>
+				<a href="Cosmin_Cosan_Resume.pdf" download="Cosmin_Cosan_Resume"><button type="button">Download CV</button></a>
 			</div>
 		</div>
 
